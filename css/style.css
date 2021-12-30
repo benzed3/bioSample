@@ -4,6 +4,7 @@ body {
     color: #333333;
     margin: 0;
     padding: 0;
+    line-height: 1.5;
 }
 
 header {
@@ -34,10 +35,15 @@ h2 {
 
 #contact-info {
     float: left;
+    width: 30%;
 }
 
 #bio-image {
     float: left;
     width: 200px;
     margin-right: 20px;
+}
+
+a {
+    color: #d21034;
 }
